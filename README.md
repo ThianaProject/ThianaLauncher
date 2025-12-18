@@ -9,11 +9,11 @@ Thiana's current codebase is in a private repository, which I will open to acces
 ## Development progress
 > This will not be updated regularly unless I remember.
 
-- **UI Design:** 45% (I've been modifying the basic styles, which has resulted in the UI not being very complete)
-- **Account Login**: 75% (UI not sorted out)
-- **Game Download**: 0%
+- **UI Design:** 50% (I've been modifying the basic styles, which has resulted in the UI not being very complete)
+- **Account Login**: 85%
+- **Game Download**: 5%
 - **Community Resources Download**: 0%
-- **Run Minecraft**: 0%
+- **Run Minecraft**: 1%
 
 ## Other
 
