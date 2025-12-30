@@ -2,18 +2,10 @@
 Thiana's current codebase is in a private repository, which I will open to access once it is working properly.
 
 ## Feature (TODO)
-- Built from scratch, with no legacy code
-- Get rid of the monotonous whiteboard UI by using (slightly modified) Material 3 design
-- I forgot
+[#1](https://github.com/ThianaProject/ThianaLauncher/issues/1)
 
 ## Development progress
-> This will not be updated regularly unless I remember.
-
-- **UI Design:** 50% (I've been modifying the basic styles, which has resulted in the UI not being very complete)
-- **Account Login**: 85%
-- **Game Download**: 5%
-- **Community Resources Download**: 0%
-- **Run Minecraft**: 1%
+[#1](https://github.com/ThianaProject/ThianaLauncher/issues/1)
 
 ## Other
 
